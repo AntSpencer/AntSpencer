@@ -1,4 +1,3 @@
-Hi, I’m Tony, I’m interested in backend and frontend development for websites.
 - 🌱 I’m currently learning React, Node.js, and Websockets
 - 💞️ I’m looking to collaborate on any sort of website, although im still a newbie.
 - 📫 if you need to reach me, please contact my gmail
